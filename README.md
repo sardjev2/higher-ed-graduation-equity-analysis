@@ -31,7 +31,7 @@ This project analyzes institutional graduation outcomes using IPEDS data, with a
 
 ## Project Files
 - Tableau workbook (.twbx)
-- Supporting data files (CSV)
+- Tableau dashboard image (.jpeg)
 - SQL scripts
 
 ## Author
