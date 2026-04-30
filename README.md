@@ -25,12 +25,10 @@ This project analyzes institutional graduation outcomes using IPEDS data, with a
 - Tableau (visualization and dashboard design)
 
 ## Methodology
-- Cleaned and standardized multiple IPEDS datasets
-- Joined datasets using UNITID
-- Calculated key metrics including:
-  - Graduation rates
-  - Equity gap (non-Pell minus Pell graduation rate)
-- Filtered institutions to ensure meaningful comparisons (e.g., minimum completion thresholds)
+- Joined multiple IPEDS datasets using UNITID  
+- Constructed equity gap metric (non-Pell minus Pell graduation rate)  
+- Filtered institutions using minimum completion thresholds to reduce noise from small cohorts  
+- Structured data for use in Tableau dashboards
 
 ## Project Files
 - Tableau workbook (.twbx)
