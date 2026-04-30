@@ -1,5 +1,5 @@
-## Graduation Outcomes and Equity Gaps Across U.S. Institutions
-A data analysis project examining graduation outcomes and equity gaps across U.S. higher education institutions using IPEDS data.
+## Overview
+A data analysis project
 
 ## Overview
 This project analyzes institutional graduation outcomes using IPEDS data, with a focus on equity gaps between Pell and non-Pell students. The goal is to explore how graduation rates vary across institutions and identify disparities in student outcomes.
