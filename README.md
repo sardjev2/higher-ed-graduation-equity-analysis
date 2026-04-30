@@ -12,6 +12,7 @@ This project analyzes institutional graduation outcomes using IPEDS data, with a
 - A subset of institutions show substantially larger disparities in graduation outcomes
 - Higher Pell enrollment is associated with lower overall graduation rates
 - Completion rates increase significantly between 4 and 6 years, with smaller gains thereafter
+- These patterns suggest that overall institutional performance does not necessarily reflect equitable outcomes across student groups.
 
 ## Data Sources
 - IPEDS Graduation Rates (GR2024)
