@@ -3,7 +3,7 @@ A data analysis project examining graduation outcomes and equity gaps across U.S
 
 ![Dashboard](dashboard-screenshot.jpeg)
 
-![View Policy Brief](policy-brief.pdf)
+[📄 View Policy Brief](policy-brief.pdf)
 
 ## Overview
 This project analyzes institutional graduation outcomes using IPEDS data, with a focus on equity gaps between Pell and non-Pell students. The goal is to explore how graduation rates vary across institutions and identify disparities in student outcomes. This analysis highlights how aggregate institutional success can mask meaningful disparities in student outcomes.
