@@ -30,7 +30,7 @@ This project analyzes institutional graduation outcomes using IPEDS data, with a
 - Structured data for use in Tableau dashboards
 
 ## Project Files
-- `graduation_dashboard.twbx` – Tableau dashboard file containing all visualizations
+- `graduation_dashboard.twb` – Tableau dashboard file containing all visualizations
 - `dashboard-screenshot.jpeg` – Snapshot of the final dashboard
 - `sql/create_master_dataset.sql` – SQL script used to clean and join IPEDS datasets into a master analysis dataset
 
