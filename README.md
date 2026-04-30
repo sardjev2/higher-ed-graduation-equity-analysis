@@ -1,4 +1,4 @@
-# Graduation Outcomes and Equity Gaps Across U.S. Institutions
+## Graduation Outcomes and Equity Gaps Across U.S. Institutions
 A data analysis project examining graduation outcomes and equity gaps across U.S. higher education institutions using IPEDS data.
 
 ## Overview
@@ -34,7 +34,7 @@ This project analyzes institutional graduation outcomes using IPEDS data, with a
 ## Project Files
 - Tableau workbook (.twbx)
 - Supporting data files (CSV)
-- SQL scripts (if included)
+- SQL scripts
 
 ## Author
 Alex Sardjev
